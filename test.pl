@@ -11,3 +11,4 @@ foreach my $line ( @output ){
 }
 
 print 'v2 file';
+print 'v3 file';
