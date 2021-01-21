@@ -14,3 +14,5 @@ print 'v2 file';
 print 'v3 file';
 print 'v4 file';
 print 'v5 file';
+print 'v6 file';
+print 'v7 file';
