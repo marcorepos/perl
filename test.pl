@@ -18,6 +18,10 @@ sub test2() {
   print "test2";
 }
 
+sub test3() {
+  print "test3";
+}
+
 print 'v2 file';
 print 'v3 file';
 print 'v4 file';
