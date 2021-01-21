@@ -11,7 +11,7 @@ foreach my $line ( @output ){
 }
 
 sub test() {
-  print test;
+  print "test";  ## fix bug
 }
 
 sub test2() {
