@@ -10,6 +10,10 @@ foreach my $line ( @output ){
   print $line;
 }
 
+sub test() {
+  print test;
+}
+
 print 'v2 file';
 print 'v3 file';
 print 'v4 file';
